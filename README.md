@@ -9,3 +9,5 @@ Detection of plagiarism manually is really very difficult so this process should
 Data mining techniques can be used for the  detection of plagiarism as well as can help to improve the efficiency of the process.
 
 We proposed a scheme for plagarism detection in this project.
+
+This project can be used to build a app which detect the plagarism of student's assignments in universities and colleges.
